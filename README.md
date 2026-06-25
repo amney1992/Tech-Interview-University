@@ -1,4 +1,4 @@
-# Awesome Tech Interview Prep
+# Awesome Tech Interview Prep Resources (Updated 2026)
 
 A curated, no-fluff list of the best resources for landing data and tech roles.
 
