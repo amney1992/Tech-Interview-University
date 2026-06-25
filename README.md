@@ -219,7 +219,7 @@ We keep the bar high. Resources should be specific, current, and genuinely usefu
 
 <div align="center">
 
-Maintained with care by [Dataford](https://dataford.io/) - ace your data interview.
+Maintained with care by [Dataford](https://dataford.io/) - ace your next tech interview.
 
 If this list helped you, a star helps others find it.
 
