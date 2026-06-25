@@ -1,5 +1,3 @@
-<div align="center">
-
 # Awesome Tech Interview Prep
 
 A curated, no-fluff list of the best resources for landing data and tech roles.
