@@ -160,7 +160,7 @@ Reading about interviews does not make you better at them. Reps do.
 - [Dataford mock interviews](https://dataford.io/) - timed simulations graded by AI, with detailed per-question notes.
 - [Pramp](https://www.pramp.com/) - free peer-to-peer mock interviews.
 - [LeetCode](https://leetcode.com/) - company-tagged practice sets.
-
+- [Luna Interview](https://lunainterview.xyz/) - Chrome side-panel interview prep copilot that suggests answers from your own notes during Meet or Zoom. *(Disclosure: I'm the maker.)*
 ## Books
 
 The short list worth your time.
