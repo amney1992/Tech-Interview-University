@@ -159,6 +159,7 @@ Reading about interviews does not make you better at them. Reps do.
 - [Dataford question bank](https://dataford.io/questions) - 1,000+ SQL, Python, and behavioral questions with AI evaluation and instant feedback.
 - [Dataford mock interviews](https://dataford.io/) - timed simulations graded by AI, with detailed per-question notes.
 - [Pramp](https://www.pramp.com/) - free peer-to-peer mock interviews.
+- [CandidThread (our project)](https://candidthread.com/mock-interview) - free spoken mock interview practice with AI feedback, no account required.
 - [LeetCode](https://leetcode.com/) - company-tagged practice sets.
 
 ## Books
